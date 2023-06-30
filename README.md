@@ -16,7 +16,7 @@
 		</div>
 		<div class="content">
             <h1>HI! I'M <span>ANGEL U. LARENA</span></h1>
-            <p>I am from Grade 8 section Pasteur of RTPM-DSHS. <br> It's nice to meet you! <3</p>   
+            <p>I am from the Grade 8 section Pasteur of RTPM-DSHS. <br> It's nice to meet you! <3</p>   
         </div>
     </body
 </html> 
